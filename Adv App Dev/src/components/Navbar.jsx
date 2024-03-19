@@ -1,7 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import '../Styles/Navbar.css';
-import SearchIcon from '@mui/icons-material/Search';
-import MenuIcon from '@mui/icons-material/Menu';
 import { Link } from 'react-router-dom';
 import logo from '../assets/logo.jpg'
 const Navbar = () => {

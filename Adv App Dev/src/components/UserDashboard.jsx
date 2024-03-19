@@ -3,7 +3,6 @@ import Sidebar from './Sidebar';
 import '../Styles/userDash.css';
 import { useNavigate } from 'react-router-dom';
 import axios from 'axios';
-import { AccountCircle, Email, Phone } from '@mui/icons-material';
 import { PieChart as MUIPieChart } from '@mui/x-charts/PieChart'; 
 
 function UserDashboard() {
