@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-AgritechApplication<agritech>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.aad.agritech.AgritechApplication",
+            "projectName": "agritech",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
