@@ -1,5 +1,5 @@
 package com.aad.agritech.Model;
-
+//c
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
