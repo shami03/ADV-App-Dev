@@ -9,7 +9,7 @@ import com.aad.agro.Model.Loan;
 import com.aad.agro.Service.LoanService;
 
 import java.util.List;
-
+//c
 @RestController
 @RequestMapping("/api/loans")
 public class LoanController {
